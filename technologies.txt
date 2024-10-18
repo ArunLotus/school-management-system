@@ -1,0 +1,19 @@
+Desktop
+    Electron js
+Web
+    Typescript	- 5.3.1
+    Angular -   17
+    Angular Material	-  17
+	
+Mobile
+    Flutter -   3.16
+    
+Backend
+    Python  -   3.12
+    	Date and Time using module like Pendulam
+    Django  -   5
+
+Database
+    Postgresql  -   16
+
+
